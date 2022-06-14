@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a bug report for wotlk classic
 title: "[BUG]"
-labels: ''
+labels: Pending Approval
 assignees: ''
 
 ---
