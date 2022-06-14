@@ -11,7 +11,7 @@ Feel free to open up issues for bug reports using the right format, provide as m
            3. Do this again and voilá}
   #### 1.3  Source Material
 {Video, Posts, etc..}
-### 1. Expected Behavior
+### 2. Expected Behavior
   #### 2.1. Description
 {Describe how that mechanic/spell/npc should be working, in detail}
   #### 2.2 Source Material
