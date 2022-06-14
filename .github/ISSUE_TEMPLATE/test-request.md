@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 ### Description
-       {Describe what you'd like to have tested}
+{Describe what you'd like to have tested}
