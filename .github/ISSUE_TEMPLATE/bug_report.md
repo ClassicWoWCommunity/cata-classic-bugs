@@ -16,9 +16,9 @@ Feel free to open up issues for bug reports using the right format, provide as m
   #### 1.2. How to Reproduce
           {Describe the steps to reproduce the particular bug, in detail}
   #### 1.3  Source Material
-           {Video, Posts, etc..}
+{Video, Posts, etc..}
 ### 1. Expected Behavior
   #### 2.1. Description
            {Describe how that mechanic/spell/npc should be working, in detail}
   #### 2.2 Source Material
-         {Video, Posts, etc..}
+{Video, Posts, etc..}
