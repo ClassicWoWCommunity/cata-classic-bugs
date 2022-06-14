@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a bug report for wotlk classic
-title: ''
+title: "[BUG]"
 labels: ''
 assignees: ''
 

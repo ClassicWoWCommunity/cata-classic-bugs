@@ -1,7 +1,7 @@
 ---
 name: Test Request
 about: Request a bug/mechanic to be tested
-title: ''
+title: "[TEST-REQUEST]"
 labels: Research Needed
 assignees: ''
 
