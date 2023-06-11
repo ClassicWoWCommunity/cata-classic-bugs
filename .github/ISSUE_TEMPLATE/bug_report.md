@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: [WOTLK Classic] Bug report
 about: Create a bug report for wotlk classic
 title: "[BUG]"
 labels: Pending Approval
