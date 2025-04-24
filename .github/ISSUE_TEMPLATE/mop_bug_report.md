@@ -2,7 +2,7 @@
 name: MOP Classic Bug report
 about: Create a bug report for mists of pandaria classic
 title: "[BUG]"
-labels: Pending Approval, MOP
+labels: Pending Approval, MoP
 assignees: ''
 
 ---
